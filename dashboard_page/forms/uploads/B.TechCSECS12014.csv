@@ -1,0 +1,3 @@
+program,department,branch,batch,admission_no,roll_no,register_no,name,sex,address,religion,cast,reserv_group,father_name,father_occupation,year_of_admission,date_of_birth,father_mobile_number,local_guardian_mobile_number,blood_group,income,email,parent_email,name_of_local_guardian
+B.Tech,CSE,CS,1,5053,58,12120458,Tittu varghese,Male,"Puthenparambil, Karuvatta, Alappuzha",Christian,Orthodox,No,Varghese PG,Retired Army Officer,2011,27-05-1994,8547960432,8547960432,O+,100000,tittuhpd@gmail.com,tittu@tittu.com,Varghese PG
+B.Tech,CSE,CS,1,5054,58,12120458,Tittu varghese,Male,"Puthenparambil, Karuvatta, Alappuzha",Christian,Orthodox,No,Varghese PG,Retired Army Officer,2011,27-05-1994,8547960432,8547960432,O+,100000,tittuhghpd@gmail.com,tittu@tittu.com,Varghese PG
